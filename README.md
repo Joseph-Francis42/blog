@@ -4,6 +4,8 @@ BlogVerse is a full-featured, server-side rendered (SSR) blog application built 
 
 It replicates the premium **Beyond UI** design tokens: fine-tuned typographic hierarchy, responsive grid alignment, context-based dark/light theme switching, and smooth Framer Motion micro-animations.
 
+🌐 **Live Demo:** [https://blog-liard-rho-56.vercel.app/](https://blog-liard-rho-56.vercel.app/)
+
 ---
 
 ## 🚀 Key Features
